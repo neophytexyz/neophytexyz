@@ -1,28 +1,15 @@
-<h1 align="center">🌒 Neophyte</h1>
-<p align="center"><i>Beginner • Learning • Exploring the Kernel</i></p>
+# 🌑 NeophyteXYZ
 
----
+![learning](https://img.shields.io/badge/learning-black?style=flat)
+![beginner](https://img.shields.io/badge/beginner_dev-black?style=flat)
+![kernel](https://img.shields.io/badge/kernel_tinkering-black?style=flat)
 
-### 🌑 About Me
-I'm a beginner who enjoys exploring Android kernel internals.  
-Still learning, still experimenting, still breaking things (and fixing them).
+──────────
 
----
+still a beginner.  
+exploring android kernel & low-level stuff.
 
-### ⚙️ Currently Learning
-- Linux kernel basics  
-- C programming  
-- Android system internals  
-- Kernel tuning & performance tweaks  
-
----
-
-### 🌒 Project
-**Neophyte Eclipse**  
-My experimental kernel project — where I practice, test, and learn.
-
----
-
+──────────
 ### 🎯 Goals
 - Get better at C  
 - Understand kernel architecture  
