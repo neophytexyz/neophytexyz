@@ -1,15 +1,10 @@
 # 🌑 NeophyteXYZ
 
 ![learning](https://img.shields.io/badge/learning-black?style=flat)
-![beginner](https://img.shields.io/badge/beginner_dev-black?style=flat)
-![kernel](https://img.shields.io/badge/kernel_tinkering-black?style=flat)
 
-──────────
+beginner dev.  
+dark themed.  
 
-still a beginner.  
-exploring android kernel & low-level stuff.
-
-──────────
 ### 🎯 Goals
 - Get better at C  
 - Understand kernel architecture  
