@@ -1,9 +1,7 @@
-# 🌑 NeophyteXYZ
+<h1 align="center">🌒 Neophyte</h1>
+<p align="center"><i>Beginner • Learning</i></p>
 
-![learning](https://img.shields.io/badge/learning-black?style=flat)
-
-beginner dev.  
-dark themed.  
+---
 
 ### 🎯 Goals
 - Get better at C  
